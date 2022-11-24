@@ -91,9 +91,8 @@ The key specs of the latest-generation iPhone 13 are (as per [Apple's website](h
 Watch tech publishers take apart all the parts in the iPhone 13 Pro in the Livestream recording. You can also [read the Teardown summary](https://www.ifixit.com/Teardown/iPhone+13+Pro+Teardown/144928).
 <iframe width=100% height="315" src="https://www.youtube.com/embed/5pYRatrnnPo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### iPhone could possibly be going port-less before we know it
-Tech reviewer Marques Brownlie reviews the possiblity of iPhone moving to a portless design sooner than we might think in this video. 
-(https://youtu.be/UdgRUCVUts0)
+#### EU law changes will mean the iPhone will eventually have to use a USB-C port, or go 'port-less'
+The European Commission has announced plans to eventually force all smartphones to use a standard USB-C port for any charging ports. This would mean that iPhone models would need to start using a USB-C port, or go ["port-less"](https://www.theverge.com/2021/9/23/22689432/eu-iphone-usb-c-switch-portless-design) and use wireless charging instead.
 
 ## The life of an Apple iPhone before it reaches you
 ### Apple's global suppliers
