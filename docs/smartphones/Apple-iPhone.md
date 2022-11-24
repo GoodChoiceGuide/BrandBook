@@ -91,6 +91,9 @@ The key specs of the latest-generation iPhone 13 are (as per [Apple's website](h
 Watch tech publishers take apart all the parts in the iPhone 13 Pro in the Livestream recording. You can also [read the Teardown summary](https://www.ifixit.com/Teardown/iPhone+13+Pro+Teardown/144928).
 <iframe width=100% height="315" src="https://www.youtube.com/embed/5pYRatrnnPo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### iPhone could possibly be going port-less before we know it
+Tech reviewer Marques Brownlie reviews the possiblity of iPhone moving to a portless design sooner than we might think in this video. 
+(https://youtu.be/UdgRUCVUts0)
 
 ## The life of an Apple iPhone before it reaches you
 ### Apple's global suppliers
